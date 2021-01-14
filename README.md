@@ -77,24 +77,3 @@ docker run --name redis -p 6379:6379 -d -t redis:alpine
 
 ```
 
-
-## 🚩 Tenho Dúvidas... O que fazer? 
-
-Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/Tarefas-em-background-utilizando-Node.js-e-Redis/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
-
-## Autor:
-
-* [**Wanderson A. Timóteo**](https://wanderson.ga)
-
-
-## Licença
-
-* Licenciado sob a licença MIT - veja [LICENSE](LICENSE) para mais informações.
-
-## Agradecimentos
-
-![Preview](https://github.com/Wanderson-A-Timoteo/Tarefas-em-background-utilizando-Node.js-e-Redis/blob/master/cover_dio.jpg?raw=true)
-
-* Projeto construído durante as aulas do BootCamp Node.js Web Developer da [Digital Innovation One](https://web.digitalinnovation.one/), em Setembro de 2020. 
-
-* Agradecimento ao instrutor [Roberto Alves](https://github.com/robertosousa1) por compartilhar seu conhecimento e nos ensinar.
